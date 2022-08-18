@@ -1,4 +1,9 @@
-### Hi there 👋
+### Ahoy 🏴‍☠️
+
+- 🔭 I’m currently working as a BackEnd Developer
+- 🌱 I’m currently learning CyberSecurity and Java
+- 📫 How to reach me: jlucasquinho1@gmail.com
+- 👯 I’m looking to collaborate on Open Source Projects
 
 <!--
 **JoseLucasQ/JoseLucasQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
