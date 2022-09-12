@@ -8,7 +8,7 @@
 [![Profile badge](https://www.codewars.com/users/JoseLucasQ/badges/large)](https://www.codewars.com/users/JoseLucasQ)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JoseLucasQ?theme=dark&font=Roboto%20Mono)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/JoseLucasQ?theme=dark&font=Roboto%20Mono)-->
 
 
 <!--
