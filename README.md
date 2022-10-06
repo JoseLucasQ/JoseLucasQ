@@ -1,7 +1,7 @@
 ### Ahoy 🏴‍☠️
 
 - 🔭 I’m currently working as a BackEnd Developer
-- 🌱 I’m currently learning CyberSecurity and Java
+- 🌱 I’m currently learning CyberSecurity and Python
 - 📫 How to reach me: jlucasquinho1@gmail.com
 - 👯 I’m looking to Futher My Knowledge on Security
 
