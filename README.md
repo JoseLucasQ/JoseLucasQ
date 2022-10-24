@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a BackEnd Developer
 - 🌱 I’m currently learning CyberSecurity and Python
 - 📫 How to reach me: jlucasquinho1@gmail.com
-- 👯 I’m looking to Futher My Knowledge on Security
+- 👯 I’m looking to Futher My Knowledge on Security and A.I
 
 [![Profile badge](https://www.codewars.com/users/JoseLucasQ/badges/large)](https://www.codewars.com/users/JoseLucasQ)
 
