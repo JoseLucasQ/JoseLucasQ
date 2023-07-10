@@ -1,4 +1,4 @@
-<!-- ### Ahoy 🏴‍☠️ -->
+🏴‍☠️
 
 - 🔭 I’m currently working as a Cyber Security Analyst
 - 🌱 I’m currently learning CyberSecurity and Python
